@@ -1,0 +1,2 @@
+webpackJsonp([55702396619907],{544:function(t,a){t.exports={data:{site:{siteMetadata:{title:"CakeLab - Лаборатория вкуса"}},allMarkdownRemark:{group:[{fieldValue:"ipsum",totalCount:1},{fieldValue:"lorem",totalCount:1}]}},pathContext:{}}}});
+//# sourceMappingURL=path---tags-fcd562b7a50d9b46c7eb.js.map

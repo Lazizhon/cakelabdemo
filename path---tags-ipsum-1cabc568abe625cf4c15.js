@@ -1,0 +1,2 @@
+webpackJsonp([0xe968cc77cda],{542:function(t,e){t.exports={data:{site:{siteMetadata:{title:"CakeLab - Лаборатория вкуса"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/lorem-ipsum-dolor-situm/"},frontmatter:{title:"Lorem Ipsum Dolor Situm"}}}]}},pathContext:{tag:"ipsum"}}}});
+//# sourceMappingURL=path---tags-ipsum-1cabc568abe625cf4c15.js.map
